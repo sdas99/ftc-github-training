@@ -1,6 +1,6 @@
 # FTC GitHub Training
 
-Welcome! This repo is designed to help new FTC programmers (ages 12–14) learn **GitHub basics** using small Java coding challenges.
+Welcome! This repo is designed to help new FTC programmers learn **GitHub basics** using small Java coding challenges.
 
 ## Lessons
 1. Lesson 1: Hello Git → Clone, edit, commit, push.
